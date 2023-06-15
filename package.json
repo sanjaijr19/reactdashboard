@@ -1,5 +1,4 @@
 {
-  "homepage": "http://sanjaijr19.github.io/reactstickynote",
   "name": "hyper-react",
   "version": "3.0.0",
   "private": true,
@@ -79,9 +78,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "flow": "flow",
-    "format": "prettier --write 'src/**/*.js'",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "format": "prettier --write 'src/**/*.js'"
   },
   "eslintConfig": {
     "extends": [
